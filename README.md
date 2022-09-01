@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Shell basics task, we go again
+Task 0.My name is Betty
